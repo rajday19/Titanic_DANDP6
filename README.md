@@ -12,6 +12,8 @@ The data visulaization explores the impact of Gender, Soci0-economic class (show
 
 ## Resources
 
-http://learnjsdata.com/group_data.html
-stackoverflow.com
-https://github.com/PMSI-AlignAlytics/dimple/wiki/dimple.axis#fontSize
+1. http://learnjsdata.com/group_data.html
+
+2. stackoverflow.com
+
+3. https://github.com/PMSI-AlignAlytics/dimple/wiki/dimple.axis#fontSize
